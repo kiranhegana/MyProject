@@ -1,0 +1,6 @@
+D:\DotNetPracticse\IntoCSharp\IntoCSharp\bin\Debug\IntoCSharp.exe.config
+D:\DotNetPracticse\IntoCSharp\IntoCSharp\bin\Debug\IntoCSharp.exe
+D:\DotNetPracticse\IntoCSharp\IntoCSharp\bin\Debug\IntoCSharp.pdb
+D:\DotNetPracticse\IntoCSharp\IntoCSharp\obj\Debug\IntoCSharp.csprojResolveAssemblyReference.cache
+D:\DotNetPracticse\IntoCSharp\IntoCSharp\obj\Debug\IntoCSharp.exe
+D:\DotNetPracticse\IntoCSharp\IntoCSharp\obj\Debug\IntoCSharp.pdb
